@@ -1,6 +1,6 @@
 # E4‑Armory
 
-A lightweight, clarity‑driven backlog tool for organizing work using a simple **Epic → Feature → Story** conceptual hierarchy. It's built for capturing and organizing work without heavy admin overhead metrics tracking that serves no purpose in actually getting work done.
+A lightweight, clarity‑driven backlog tool for organizing work using a simple **Epic → Feature → Story** conceptual hierarchy. It's built for capturing and organizing work without heavy admin overhead or metrics tracking that serves no purpose in actually getting work done.
 
 ---
 
