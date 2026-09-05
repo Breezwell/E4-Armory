@@ -27,6 +27,7 @@ The Armory metaphor reflects its purpose: a place to store, organize, and deploy
 ## Why E4‑Armory Exists
 
 Many individuals and small teams need clarity, not complexity.  
+
 E4‑Armory provides a simple structure for:
 
 - breaking down large initiatives  
@@ -47,7 +48,7 @@ Its simplicity makes it highly customizable for different clients, domains, and 
 - Independent consultants  
 - Veteran‑run organizations  
 - Nonprofits  
-- Product managers who dislike Jira  
+- Product managers who don't need complexity or cost of Jira / ADO  
 - Business analysts  
 - Operations managers  
 - Anyone drowning in complexity
