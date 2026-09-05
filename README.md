@@ -21,7 +21,7 @@ The Armory metaphor reflects its purpose: a place to store, organize, and deploy
 - **Delete items easily** — keep your structure clean and focused.  
 - **Information capture** — capture requirements, context, acceptance criteria, or any relevant information.
 - **Data exporting** - easily copy information into local files
-- **Local File-Based Database** - utilizes SQLite, so no servers required to store and query your data
+- **Local file-based database** - utilizes SQLite, so no servers required to store and query your data
 - **Lightweight and fast** — no ceremony, no configuration overhead, no complexity.
 
 ---
