@@ -22,7 +22,6 @@ The Armory metaphor reflects its purpose: a place to store, organize, and deploy
 - **Text areas for notes and details** — capture requirements, context, acceptance criteria, or any relevant information.
 - **Data Exporting** - easily copy information into local files
 - **Local File-Based Database** - utilizes SQLite, so no servers required to store and query your data
-- **Python, React.js, MaterialUI, FastAPI** - it's built with cool sounding stuff
 - **Lightweight and fast** — no ceremony, no configuration overhead, no complexity.
 
 ---
