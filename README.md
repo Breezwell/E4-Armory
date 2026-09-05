@@ -20,7 +20,8 @@ The Armory metaphor reflects its purpose: a place to store, organize, and deploy
 - **Rename any item** — adapt the hierarchy to your domain (e.g., Mission → Workstream → Action).  
 - **Delete items easily** — keep your structure clean and focused.  
 - **Text areas for notes and details** — capture requirements, context, acceptance criteria, or any relevant information.
-- **Data Exporting** - easily copy information into local files  
+- **Data Exporting** - easily copy information into local files
+- **Local Database** - utilizes SQLite, so no servers required to store and query your data
 - **Lightweight and fast** — no ceremony, no configuration overhead, no complexity.
 
 ---
