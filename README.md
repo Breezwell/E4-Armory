@@ -8,8 +8,7 @@ A lightweight, clarity‑driven backlog tool for organizing work using a simple 
 
 E4‑Armory is a minimal, fast, domain‑agnostic backlog system designed for individuals and small teams who need structure without the overhead of enterprise tools like Jira or Azure DevOps.
 
-It provides a clean way to break down work, organize ideas, and maintain clarity through nested decomposition.  
-The Armory metaphor reflects its purpose: a place to store, organize, and deploy the components of your work.
+It provides a clean way to break down work, organize ideas, and maintain clarity through nested decomposition. The Armory metaphor reflects its purpose: a place to store, organize, and deploy the components of your work.
 
 ---
 
